@@ -1,0 +1,9 @@
+psycopg2
+streamlit==1.9.0
+numpy
+pandas
+plotly_express
+matplotlib
+plotly
+squarify
+protobuf~=3.19.0
